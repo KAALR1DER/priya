@@ -1,13 +1,13 @@
 {
-  "name": "♡︎ ʙᴀʙʏ ɢɪʀʟ ᴍᴜsɪᴄ ♡︎",
+  "name": "♡︎ KAAL MUSIC ♡︎",
   "description": "A Telegram Bot To Play Songs In Telegram Group Video Chats. Powered by PyTGCalls.",
   "keywords": ["Music", " Videochat", "Voicechat", "Telegram"],
-  "logo": "https://telegra.ph/file/22ae93512721d5186932e.jpg",
-  "repository": "https://github.com/AnonymousBoy1025/BabyGirlMusic",
+  "logo": "https://telegra.ph/file/13bccc62e5a1531ed8988.jpg",
+  "repository": "https://github.com/garwmishra/Babymusic",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
-      "description": "Pyrogram Session String Get From https://t.me/AnonymousStringBot",
+      "description": "Pyrogram Session String",
       "required": true
     },
     "BOT_TOKEN": {
@@ -17,22 +17,22 @@
     "BOT_USERNAME": {
       "description": "Username of the bot without @, Get this value from @BotFather",
       "required": true,
-      "value": "Devil_X_Robot"
+      "value": "KAAL_MUSIC_BOT"
     },
     "API_ID": {
       "description": "Get this value from my.telegram.org/apps",
       "required": true,
-      "value": "2719576"
+      "value": "506097"
     },
     "API_HASH": {
       "description": "Get this value from my.telegram.org/apps",
       "required": true,
-      "value": "ab88e6ee1be33f53db445baf874e1c74"
+      "value": "96dc8b25547df6e4fe9d450cd01f1680"
     },
     "OWNER_ID": {
       "description": "Telegram I'd of the owner of bot",
       "required": true,
-      "value": "1356469075"
+      "value": "5245585117"
     }
   }
 }
