@@ -207,13 +207,13 @@ async def cbcmds(_, query: CallbackQuery):
 » /unmute - UnMute The Assistant On Voice Chat
 » /playlist - Show You The Playlist
 » /restart - Restart The Bot
-🥵 __𝘗𝘰𝘸𝘦𝘳𝘦𝘥 𝘉𝘺 𝐊𝐀𝐀𝐋__ 🥵""")
+🔥 __𝘗𝘰𝘸𝘦𝘳𝘦𝘥 𝘉𝘺 𝐊𝐀𝐀𝐋__ 🔥""")
 
 
 @bot.on_message(filters.command("start") & filters.private)
 async def start_private(_, message):
     msg = START_TEXT.format(message.from_user.mention, OWNER_ID, OWNER_ID)
-    await message.reply_photo(photo="https://telegra.ph/file/22ae93512721d5186932e.jpg",
+    await message.reply_photo(photo="https://telegra.ph/file/13bccc62e5a1531ed8988.jpg",
                              caption = msg,
                              reply_markup = START_BUTTONS)
     
