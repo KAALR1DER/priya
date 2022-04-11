@@ -68,8 +68,8 @@ START_BUTTONS = InlineKeyboardMarkup(
             InlineKeyboardButton("✗ ᴅᴇᴠᴇʟᴏᴘᴇʀ 𝐊𝐀𝐀𝐋 ✗", url="https://t.me/its_heaven_king")
         ],
         [
-            InlineKeyboardButton("✗ sᴜᴘᴘᴏʀᴛ ✗", url="https://t.me/kaal_network"),
-            InlineKeyboardButton("✗ ᴜᴘᴅᴀᴛᴇs ✗", url="https://t.me/kaal_network")
+            InlineKeyboardButton("✗ sᴜᴘᴘᴏʀᴛ ✗", url="https://t.me/vip_dunia"),
+            InlineKeyboardButton("✗ ᴜᴘᴅᴀᴛᴇs ✗", url="https://t.me/vip_dunia")
         ],
         [
             InlineKeyboardButton("✗ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ​ ✗", url="https://github.com/KAALR1DER/babymusic")
@@ -80,8 +80,8 @@ START_BUTTONS = InlineKeyboardMarkup(
 BUTTONS = InlineKeyboardMarkup(
     [
         [
-            InlineKeyboardButton(text="✗ sᴜᴘᴘᴏʀᴛ ✗", url="https://t.me/heaven_army"),
-            InlineKeyboardButton(text="✗ ᴅᴇᴠᴇʟᴏᴘᴇʀ ✗", url="https://t.me/its_heaven_king")
+            InlineKeyboardButton(text="✗ sᴜᴘᴘᴏʀᴛ ✗", url="https://t.me/vip_dunia"),
+            InlineKeyboardButton(text="✗ ᴅᴇᴠᴇʟᴏᴘᴇʀ ✗", url="https://t.me/vip_dunia")
         ]
     ]
 )
