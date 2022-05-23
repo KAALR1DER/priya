@@ -65,11 +65,11 @@ START_BUTTONS = InlineKeyboardMarkup(
         ],
         [
             InlineKeyboardButton("✗ ʜᴇʟᴘ​ ✗", callback_data="cbcmds"),
-            InlineKeyboardButton("✗ ᴅᴇᴠᴇʟᴏᴘᴇʀ 𝐊𝐀𝐀𝐋 ✗", url="https://t.me/its_heaven_king")
+            InlineKeyboardButton("✗ ᴅᴇᴠᴇʟᴏᴘᴇʀ 𝐊𝐀𝐀𝐋 ✗", url="https://t.me/PANDIT_GARW_MISHRA")
         ],
         [
-            InlineKeyboardButton("✗ sᴜᴘᴘᴏʀᴛ ✗", url="https://t.me/vip_dunia"),
-            InlineKeyboardButton("✗ ᴜᴘᴅᴀᴛᴇs ✗", url="https://t.me/vip_dunia")
+            InlineKeyboardButton("✗ sᴜᴘᴘᴏʀᴛ ✗", url="https://t.me/KAAL_KI_PUBLIC"),
+            InlineKeyboardButton("✗ ᴜᴘᴅᴀᴛᴇs ✗", url="https://t.me/BAD_BOY_KAAL")
         ],
         [
             InlineKeyboardButton("✗ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ​ ✗", url="https://github.com/KAALR1DER/babymusic")
@@ -80,8 +80,8 @@ START_BUTTONS = InlineKeyboardMarkup(
 BUTTONS = InlineKeyboardMarkup(
     [
         [
-            InlineKeyboardButton(text="✗ sᴜᴘᴘᴏʀᴛ ✗", url="https://t.me/vip_dunia"),
-            InlineKeyboardButton(text="✗ ᴅᴇᴠᴇʟᴏᴘᴇʀ ✗", url="https://t.me/vip_dunia")
+            InlineKeyboardButton(text="✗ sᴜᴘᴘᴏʀᴛ ✗", url="https://t.me/KAAL_KI_PUBLIC"),
+            InlineKeyboardButton(text="✗ ᴅᴇᴠᴇʟᴏᴘᴇʀ ✗", url="https://t.me/BAD_BOY_KAAL")
         ]
     ]
 )
